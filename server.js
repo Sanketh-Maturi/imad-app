@@ -12,7 +12,7 @@ var articleOne = {
     date: 'April 30, 2018',
     content: `<p>
                 This is content for first article.
-            </p>`,
+            </p>`
 };
 
 
